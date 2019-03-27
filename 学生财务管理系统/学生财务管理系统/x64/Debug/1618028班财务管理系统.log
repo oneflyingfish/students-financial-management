@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(1618028班财务管理系统.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  admin_account.c
+  bill.c
+  log.c
+  main.c
+  menu.c
+  safe.c
+g:\achievement\c or c++\数据结构作品纯c版本\1618028班财务管理系统\1618028班财务管理系统\1618028班财务管理系统\safe.c(13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\achievement\c or c++\数据结构作品纯c版本\1618028班财务管理系统\1618028班财务管理系统\1618028班财务管理系统\safe.c(29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  sign_in.c
+  timer.c
+  user.c
+  正在生成代码...
+  1618028班财务管理系统.vcxproj -> G:\achievement\C or C++\数据结构作品纯C版本\1618028班财务管理系统\1618028班财务管理系统\x64\Debug\学生财务管理系统.exe
